@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Geometria"
 nazwa_en: "Geometry"
 prowadzacy:
