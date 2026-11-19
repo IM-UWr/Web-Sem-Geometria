@@ -1,8 +1,8 @@
 ---
 nazwa: "Geometria"
 nazwa_en: "Geometry"
-prowadzacy:
-  - "Jacek Świątkowski"
+prowadzacy_ze_spisu:
+  - "_cms/pracownicy/jacek-swiatkowski.yml"
 kontakt: "Damian.Osajda@math.uni.wroc.pl"
 archiwum: "http://www.math.uni.wroc.pl/dgt/"
 zaklad: "geometria"
