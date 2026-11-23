@@ -3,7 +3,7 @@ nazwa: "Geometria"
 nazwa_en: "Geometry"
 prowadzacy_ze_spisu:
   - "_cms/pracownicy/jacek-swiatkowski.yml"
-kontakt: "Damian.Osajda@math.uni.wroc.pl"
+kontakt: "Jacek.Swiatkowski@math.uni.wroc.pl"
 archiwum: "http://www.math.uni.wroc.pl/dgt/"
 zaklad: "geometria"
 aktywne: true
